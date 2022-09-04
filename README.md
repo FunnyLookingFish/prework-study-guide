@@ -1,42 +1,21 @@
-# <Your-Project-Title>
+# Prework Study Guide Webpage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The purpose and goal of this project has been to collect and store all of the information and notes that I have accumulated and made througout the prework process. I was motivated to make it as aesthetically appealing and succinct as possible for myself. To better keep track of, not only my notes, but also keep track of my progress as I slowly improve and update my site as I learn more during the bootcamp experience. Organization, as many topics were covered throughout the course of the prework, this helps in getting the notes sorted in the correct place for easy reference. From this process it was easy to learn how each of the different languages interact with one another and how writting code in order matters.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+To contain and organize information on coding and webdevelopment such as, but not limited to, HTML, CSS, JavaScript, and Git.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
